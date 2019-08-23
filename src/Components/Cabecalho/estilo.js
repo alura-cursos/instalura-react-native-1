@@ -2,8 +2,8 @@ import {StyleSheet} from "react-native"
 
 const estilo = StyleSheet.create({
     fotoUsuario: {
-      width: 40,
-      height: 40,
+      width: 50,
+      height: 50,
       margin:10,
       borderRadius:30
 
